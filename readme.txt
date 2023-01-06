@@ -7,3 +7,7 @@ Same day, but 21:02 .
 
 Git is free software distributed under the GPL.
 It's 21:06 .
+
+Git has a mutable index called stage.
+It's cool.
+emmm,21:16...
