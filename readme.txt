@@ -11,3 +11,6 @@ It's 21:06 .
 Git has a mutable index called stage.
 It's cool.
 emmm,21:16...
+
+Git tracks changes.
+OK,21:21 .
