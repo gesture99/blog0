@@ -4,3 +4,6 @@ Today is 2023/1/6 .
 
 Git is a distributed version control system.
 Same day, but 21:02 .
+
+Git is free software distributed under the GPL.
+It's 21:06 .
